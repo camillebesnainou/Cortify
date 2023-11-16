@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cortify
 
 Cortify is a Flutter android application that plays plays audio-visual stimuli and records log files with information about playback history. 
@@ -98,3 +99,6 @@ git submodule update
 
 - [Flutter](https://docs.flutter.dev/)
 - [Android Studio]()
+=======
+
+>>>>>>> 0c23ea2dc9065039581699f6e33ddbf314d73f31
