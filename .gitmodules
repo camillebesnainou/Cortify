@@ -1,0 +1,6 @@
+[submodule "submodules/Cortifind_Data"]
+	path = submodules/Cortifind_Data
+	url = https://github.com/pimpimpula/cortifind_data.git
+[submodule "submodules/Cortify_AddMedia"]
+	path = submodules/Cortify_AddMedia
+	url = https://github.com/pimpimpula/Cortify_AddMedia.git
